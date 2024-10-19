@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Laith-Ajarmeh a computer science major studying at University of South Wales
+- 👋 Hi, I’m @Laith-Ajarmeh a computer science major student studying at University of South Wales
 - 👀 I’m interested in Coding, Deciphering, and exploring
 - 🌱 I’m currently learning C++ 
 - 📫 How to reach me : Laith.ajarmeh@hotmail.com
