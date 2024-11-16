@@ -1,15 +1,19 @@
-- 👋 Hi, I’m @Laith-Ajarmeh a computer science major student studying at the University of South Wales
-- 👀 I’m interested in Coding, Deciphering, and exploring
-- 
-- Skills
-   - Microsoft 365
-   - Python
-   - C++
-   - SQL
-   - Team Work
-     
-📫 How to reach me : Laith.ajarmeh@hotmail.com
+Welcome to my portfolio repository! This repository Contains an Overview of my skills 
 
+
+## Skills
+- Programming Languages: Python, C++, SQL
+- Tools*: Microsoft Visual Studio, Visual Studio Code
+
+
+## Contact
+Feel free to reach out if you have any questions or would like to collaborate on a project!
+
+- Email: Laith.ajarmeh@hotmail.com or 30125288@student.southwales.ac.uk
+- GitHub: Laith-Ajarmeh
+
+ 
+## An Intresting Fact  
 - Did you know that Ada Lovelace was the first computer programmer,and Python's name is inspired by Monty Python.
 
 
