@@ -3,7 +3,7 @@ Welcome to my portfolio repository! This repository Contains an Overview of my s
 
 ## Skills
 - Programming Languages: Python, C++, SQL
-- Tools: Microsoft Visual Studio, Visual Studio Code
+- Tools: Microsoft Visual Studio, Visual Studio Code, Microsoft Office 
 
 ## Projects
 c++
