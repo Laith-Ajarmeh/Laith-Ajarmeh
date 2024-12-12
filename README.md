@@ -6,21 +6,18 @@ Welcome to my portfolio repository! This repository Contains an Overview of my s
 - Tools: Microsoft Visual Studio, Visual Studio Code
 
 ## Projects
-#c++
-- Project Hours 
-- Average Percentage Marks
-- Coin Toss
-- Area of Triangle
-- Monthly Income 
-- Height in Meters 
-- Annual High Temperatures
-- House Budget
-- Distance Travelled 
+c++
+- Project Hours (A prograam that calculates hours needed for a project) 
+- Average Percentage Marks (A program that caculates the avarege percentage mark for class)
+- Area of Triangle (A program that calulates the area of a triangle by using the users input)
+- Monthly Income (Calculate the monthly income of given users)
+- Height in Meters (Converts heght from in,cm....etc to meters)
+- Distance Travelled (Calculates distance from a to b)
 
-#Python 
-- Math Quiz
+Python 
+- Math Quiz (a program that generates 2 random numbers then adds,subtracts, multiply and divide them0
 
-#SQL
+SQL
 - (In Progress) Restaurant System (Take Away)
 
 ## Hobbies 
